@@ -1,0 +1,31 @@
+.history {
+    margin-top: 20px;
+    padding: 10px;
+    color: white;
+    background-color: #323232;
+}
+
+.history ul {
+    list-style-type: none;
+}
+
+.history li {
+    margin: 5px 0;
+}
+
+.calculator.dark {
+    color: white;
+    background-color: #323232;
+}
+
+.calculator.light .display{
+    background-color: #D4D4D3;
+    color: black;
+    border: 1px solid #323232;
+    border-radius: 5px;
+}
+
+
+
+
+
