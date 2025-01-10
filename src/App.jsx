@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import Display from "./components/Display";
-import Button from "./components/Button";
+import Display from "./components/Display.jsx";
+import Button from "./components/Button.jsx";
 import ConfettiExplosion from "react-confetti-explosion";
 import "./styles/App.css"; // You can define your light and dark mode styles in this CSS file
 
